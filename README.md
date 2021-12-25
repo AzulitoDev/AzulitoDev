@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AzulitoDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```diff
+Hi, I'm Azulito 👩‍💻.
 
-<!---
-AzulitoDev/AzulitoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@@Passionate programming student.@@
++ Living in Santa Catarina, Brazil 🇧🇷.
+- 19 years old
+! Speaker, community manager and shitposter
+# 📖 Programming languages, web development
+```
